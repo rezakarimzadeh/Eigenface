@@ -1,5 +1,5 @@
 # Eigenface
-In this project we use face images to extract eigenfaces.
+In this project we use face images to extract eigenfaces with a matlab code.
 ## image sample
 you can use 'faces.mat' dataset for further usages. Figure in following demonstrates some saples of this dataset.
 ![plot](./images/q22.png)
